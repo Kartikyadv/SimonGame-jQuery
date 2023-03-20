@@ -1,1 +1,2 @@
-# SimonGame
+# SimonGame-jQuery
+Link to play - 
