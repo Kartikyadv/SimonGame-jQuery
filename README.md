@@ -1,2 +1,2 @@
 # SimonGame-jQuery
-Link to play - 
+Link to play - https://kartikyadv.github.io/SimonGame/
